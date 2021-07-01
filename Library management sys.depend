@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1570691532 source:e:\codes\library management sys\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"SINGLINK.h"
+
+1570678805 e:\codes\library management sys\singlink.h
+	<malloc.h>
+
